@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bao</string>
+    <string name="phone">Số điện thoại</string>
+    <string name="pass">Mật khẩu</string>
+    <string name="forgotPass">Quên mật khẩu?</string>
+    <string name="login">Đăng nhập</string>
+    <string name="textOrLogin">Hoặc đăng nhập bằng mạng xã hội</string>
+    <string name="canRegister">Bạn chưa có tài khoản.</string>
+    <string name="register">Đăng ký</string>
+    <string name="home">Trang chủ</string>
+    <string name="video">Video</string>
+    <string name="story">Truyện</string>
+    <string name="mission">Nhiệm vụ</string>
+    <string name="user">Tài khoản</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="news">Tin tức</string>
+</resources>
